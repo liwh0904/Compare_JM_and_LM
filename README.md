@@ -1,6 +1,6 @@
 # Compare_JM_and_LM
 
-Code from paper "Li, Wenhao, Liang Li, and Brad C. Astor. A comparison of two approaches to dynamic prediction: Joint modeling and landmark modeling. Statistics in Medicine (2023)".
+Code from paper "Wenhao Li, Liang Li, and Brad C. Astor. A comparison of two approaches to dynamic prediction: Joint modeling and landmark modeling. Statistics in Medicine (2023)".
 
 'LM_Data_Generation.R' is the algorithm to generate data from landmark model.
 
